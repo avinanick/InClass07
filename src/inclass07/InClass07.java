@@ -5,6 +5,8 @@
  */
 package inclass07;
 
+
+
 /**
  *
  * @author nick
@@ -16,6 +18,8 @@ public class InClass07 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Formater.format(',', '#', "talents.csv");
+        
     }
-    
+
 }
